@@ -1,0 +1,55 @@
+# --- Scoring Weights ---
+weights:
+  transparency: 0.3
+  risk: 0.4 # Risk is often a key disclosure area
+  action: 0.3
+  
+# --- Text Analysis Parameters ---
+# The number of words before and after a term to capture for a snippet
+context_window_words: 50
+# --- Lexicons for Text Mining ---
+terms:
+  usage:
+    - "artificial intelligence"
+    - "machine learning"
+    - "deep learning"
+    - "generative ai"
+    - "large language model"
+    - "llm"
+    - "nlp"
+    - "computer vision"
+    - "recommendation systems"
+    - "foundation model"
+    - "mlops"
+
+  governance:
+    - "responsible ai"
+    - "ai ethics"
+    - "fairness"
+    - "bias"
+    - "transparency"
+    - "accountability"
+    - "explainability"
+    - "human oversight"
+    - "privacy"
+    - "ai safety"
+
+  action:
+    - "ai policy"
+    - "ai committee"
+    - "board oversight"
+    - "ai audit"
+    - "impact assessment"
+    - "incident response"
+    - "content filtering"
+    - "watermarking"
+    - "guardrails"
+    - "red teaming"
+    - "model cards"
+
+# --- Section Identifiers for Regex Parsing ---
+# Used to split the document into meaningful sections. Case-insensitive.
+sections:
+  - "Item 1A. Risk Factors"
+  - "Item 1. Business"
+  - "Item 7. Management's Discussion and Analysis"
