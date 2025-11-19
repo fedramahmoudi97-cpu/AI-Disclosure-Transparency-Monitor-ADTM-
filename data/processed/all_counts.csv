@@ -1,0 +1,466 @@
+filing_id,ticker,filing_date,term,category,section,frequency
+1,AAPL,2021-10-29,fairness,governance,full_document,1
+1,AAPL,2021-10-29,privacy,governance,full_document,6
+2,AAPL,2022-10-28,fairness,governance,full_document,1
+2,AAPL,2022-10-28,privacy,governance,full_document,6
+3,AAPL,2023-11-03,artificial intelligence,usage,full_document,1
+3,AAPL,2023-11-03,machine learning,usage,full_document,1
+3,AAPL,2023-11-03,llm,usage,full_document,2
+3,AAPL,2023-11-03,fairness,governance,full_document,1
+3,AAPL,2023-11-03,privacy,governance,full_document,6
+4,AAPL,2024-11-01,artificial intelligence,usage,full_document,3
+4,AAPL,2024-11-01,machine learning,usage,full_document,2
+4,AAPL,2024-11-01,llm,usage,full_document,1
+4,AAPL,2024-11-01,fairness,governance,full_document,1
+4,AAPL,2024-11-01,privacy,governance,full_document,11
+4,AAPL,2024-11-01,incident response,action,full_document,1
+5,AAPL,2025-10-31,artificial intelligence,usage,full_document,6
+5,AAPL,2025-10-31,machine learning,usage,full_document,4
+5,AAPL,2025-10-31,fairness,governance,full_document,1
+5,AAPL,2025-10-31,privacy,governance,full_document,8
+5,AAPL,2025-10-31,incident response,action,full_document,4
+6,AAPL,2024-05-03,llm,usage,full_document,1
+6,AAPL,2024-05-03,privacy,governance,full_document,2
+8,AAPL,2025-01-31,artificial intelligence,usage,full_document,2
+8,AAPL,2025-01-31,machine learning,usage,full_document,2
+8,AAPL,2025-01-31,nlp,usage,full_document,1
+8,AAPL,2025-01-31,privacy,governance,full_document,3
+11,AMZN,2021-02-03,artificial intelligence,usage,full_document,2
+11,AMZN,2021-02-03,machine learning,usage,full_document,5
+11,AMZN,2021-02-03,nlp,usage,full_document,1
+11,AMZN,2021-02-03,privacy,governance,full_document,8
+12,AMZN,2022-02-04,artificial intelligence,usage,full_document,3
+12,AMZN,2022-02-04,machine learning,usage,full_document,5
+12,AMZN,2022-02-04,nlp,usage,full_document,1
+12,AMZN,2022-02-04,privacy,governance,full_document,10
+13,AMZN,2023-02-03,artificial intelligence,usage,full_document,3
+13,AMZN,2023-02-03,machine learning,usage,full_document,5
+13,AMZN,2023-02-03,privacy,governance,full_document,8
+14,AMZN,2024-02-02,artificial intelligence,usage,full_document,9
+14,AMZN,2024-02-02,machine learning,usage,full_document,7
+14,AMZN,2024-02-02,privacy,governance,full_document,13
+14,AMZN,2024-02-02,incident response,action,full_document,1
+15,AMZN,2025-02-07,artificial intelligence,usage,full_document,13
+15,AMZN,2025-02-07,machine learning,usage,full_document,8
+15,AMZN,2025-02-07,privacy,governance,full_document,9
+15,AMZN,2025-02-07,incident response,action,full_document,1
+16,AMZN,2024-08-02,artificial intelligence,usage,full_document,8
+16,AMZN,2024-08-02,machine learning,usage,full_document,2
+16,AMZN,2024-08-02,privacy,governance,full_document,9
+17,AMZN,2024-11-01,artificial intelligence,usage,full_document,8
+17,AMZN,2024-11-01,machine learning,usage,full_document,2
+17,AMZN,2024-11-01,privacy,governance,full_document,9
+18,AMZN,2025-05-02,artificial intelligence,usage,full_document,13
+18,AMZN,2025-05-02,machine learning,usage,full_document,6
+18,AMZN,2025-05-02,privacy,governance,full_document,9
+19,AMZN,2025-08-01,artificial intelligence,usage,full_document,13
+19,AMZN,2025-08-01,machine learning,usage,full_document,6
+19,AMZN,2025-08-01,privacy,governance,full_document,9
+20,AMZN,2025-10-31,artificial intelligence,usage,full_document,13
+20,AMZN,2025-10-31,machine learning,usage,full_document,6
+20,AMZN,2025-10-31,privacy,governance,full_document,9
+21,GOOGL,2021-02-03,artificial intelligence,usage,full_document,2
+21,GOOGL,2021-02-03,machine learning,usage,full_document,8
+21,GOOGL,2021-02-03,privacy,governance,full_document,22
+21,GOOGL,2021-02-03,incident response,action,full_document,2
+22,GOOGL,2022-02-02,artificial intelligence,usage,full_document,1
+22,GOOGL,2022-02-02,machine learning,usage,full_document,4
+22,GOOGL,2022-02-02,nlp,usage,full_document,1
+22,GOOGL,2022-02-02,privacy,governance,full_document,32
+22,GOOGL,2022-02-02,incident response,action,full_document,2
+23,GOOGL,2023-02-03,artificial intelligence,usage,full_document,2
+23,GOOGL,2023-02-03,machine learning,usage,full_document,3
+23,GOOGL,2023-02-03,privacy,governance,full_document,39
+23,GOOGL,2023-02-03,incident response,action,full_document,4
+24,GOOGL,2024-01-31,artificial intelligence,usage,full_document,5
+24,GOOGL,2024-01-31,machine learning,usage,full_document,2
+24,GOOGL,2024-01-31,deep learning,usage,full_document,1
+24,GOOGL,2024-01-31,generative ai,usage,full_document,4
+24,GOOGL,2024-01-31,responsible ai,governance,full_document,2
+24,GOOGL,2024-01-31,transparency,governance,full_document,4
+24,GOOGL,2024-01-31,privacy,governance,full_document,38
+24,GOOGL,2024-01-31,incident response,action,full_document,2
+25,GOOGL,2025-02-05,artificial intelligence,usage,full_document,2
+25,GOOGL,2025-02-05,machine learning,usage,full_document,1
+25,GOOGL,2025-02-05,generative ai,usage,full_document,4
+25,GOOGL,2025-02-05,large language model,usage,full_document,2
+25,GOOGL,2025-02-05,llm,usage,full_document,1
+25,GOOGL,2025-02-05,nlp,usage,full_document,1
+25,GOOGL,2025-02-05,responsible ai,governance,full_document,2
+25,GOOGL,2025-02-05,transparency,governance,full_document,1
+25,GOOGL,2025-02-05,privacy,governance,full_document,54
+25,GOOGL,2025-02-05,incident response,action,full_document,2
+26,GOOGL,2024-07-24,artificial intelligence,usage,full_document,1
+26,GOOGL,2024-07-24,privacy,governance,full_document,8
+27,GOOGL,2024-10-30,artificial intelligence,usage,full_document,1
+27,GOOGL,2024-10-30,large language model,usage,full_document,2
+27,GOOGL,2024-10-30,llm,usage,full_document,1
+27,GOOGL,2024-10-30,nlp,usage,full_document,1
+27,GOOGL,2024-10-30,privacy,governance,full_document,8
+28,GOOGL,2025-04-25,artificial intelligence,usage,full_document,1
+28,GOOGL,2025-04-25,privacy,governance,full_document,8
+29,GOOGL,2025-07-24,artificial intelligence,usage,full_document,1
+29,GOOGL,2025-07-24,privacy,governance,full_document,16
+30,GOOGL,2025-10-30,artificial intelligence,usage,full_document,1
+30,GOOGL,2025-10-30,privacy,governance,full_document,12
+31,IBM,2024-02-26,artificial intelligence,usage,full_document,2
+31,IBM,2024-02-26,generative ai,usage,full_document,11
+31,IBM,2024-02-26,llm,usage,full_document,1
+31,IBM,2024-02-26,transparency,governance,full_document,5
+31,IBM,2024-02-26,privacy,governance,full_document,9
+31,IBM,2024-02-26,incident response,action,full_document,6
+32,IBM,2025-02-25,artificial intelligence,usage,full_document,2
+32,IBM,2025-02-25,generative ai,usage,full_document,18
+32,IBM,2025-02-25,transparency,governance,full_document,5
+32,IBM,2025-02-25,privacy,governance,full_document,9
+32,IBM,2025-02-25,incident response,action,full_document,6
+33,IBM,2021-02-23,artificial intelligence,usage,full_document,5
+33,IBM,2021-02-23,machine learning,usage,full_document,1
+33,IBM,2021-02-23,llm,usage,full_document,1
+33,IBM,2021-02-23,transparency,governance,full_document,2
+33,IBM,2021-02-23,privacy,governance,full_document,10
+33,IBM,2021-02-23,incident response,action,full_document,2
+34,IBM,2022-02-22,artificial intelligence,usage,full_document,9
+34,IBM,2022-02-22,machine learning,usage,full_document,1
+34,IBM,2022-02-22,ai ethics,governance,full_document,1
+34,IBM,2022-02-22,transparency,governance,full_document,5
+34,IBM,2022-02-22,accountability,governance,full_document,1
+34,IBM,2022-02-22,privacy,governance,full_document,12
+34,IBM,2022-02-22,incident response,action,full_document,2
+35,IBM,2023-02-28,artificial intelligence,usage,full_document,7
+35,IBM,2023-02-28,llm,usage,full_document,1
+35,IBM,2023-02-28,nlp,usage,full_document,1
+35,IBM,2023-02-28,transparency,governance,full_document,2
+35,IBM,2023-02-28,accountability,governance,full_document,1
+35,IBM,2023-02-28,privacy,governance,full_document,11
+35,IBM,2023-02-28,incident response,action,full_document,2
+36,IBM,2024-07-30,generative ai,usage,full_document,7
+36,IBM,2024-07-30,llm,usage,full_document,1
+36,IBM,2024-07-30,nlp,usage,full_document,1
+36,IBM,2024-07-30,transparency,governance,full_document,4
+36,IBM,2024-07-30,privacy,governance,full_document,5
+37,IBM,2024-10-30,generative ai,usage,full_document,5
+37,IBM,2024-10-30,transparency,governance,full_document,4
+37,IBM,2024-10-30,privacy,governance,full_document,3
+38,IBM,2025-04-24,generative ai,usage,full_document,6
+38,IBM,2025-04-24,transparency,governance,full_document,2
+38,IBM,2025-04-24,privacy,governance,full_document,4
+39,IBM,2025-07-24,generative ai,usage,full_document,2
+39,IBM,2025-07-24,nlp,usage,full_document,1
+39,IBM,2025-07-24,transparency,governance,full_document,2
+39,IBM,2025-07-24,privacy,governance,full_document,3
+40,IBM,2025-10-23,generative ai,usage,full_document,1
+40,IBM,2025-10-23,transparency,governance,full_document,2
+40,IBM,2025-10-23,privacy,governance,full_document,5
+41,JPM,2021-02-23,artificial intelligence,usage,full_document,1
+41,JPM,2021-02-23,llm,usage,full_document,2
+41,JPM,2021-02-23,nlp,usage,full_document,2
+41,JPM,2021-02-23,fairness,governance,full_document,1
+41,JPM,2021-02-23,transparency,governance,full_document,3
+41,JPM,2021-02-23,accountability,governance,full_document,5
+41,JPM,2021-02-23,privacy,governance,full_document,18
+41,JPM,2021-02-23,board oversight,action,full_document,1
+41,JPM,2021-02-23,incident response,action,full_document,1
+42,JPM,2022-02-22,artificial intelligence,usage,full_document,1
+42,JPM,2022-02-22,llm,usage,full_document,2
+42,JPM,2022-02-22,fairness,governance,full_document,2
+42,JPM,2022-02-22,transparency,governance,full_document,4
+42,JPM,2022-02-22,accountability,governance,full_document,7
+42,JPM,2022-02-22,privacy,governance,full_document,9
+42,JPM,2022-02-22,board oversight,action,full_document,1
+42,JPM,2022-02-22,incident response,action,full_document,1
+43,JPM,2023-02-21,llm,usage,full_document,1
+43,JPM,2023-02-21,nlp,usage,full_document,1
+43,JPM,2023-02-21,fairness,governance,full_document,1
+43,JPM,2023-02-21,transparency,governance,full_document,6
+43,JPM,2023-02-21,accountability,governance,full_document,5
+43,JPM,2023-02-21,privacy,governance,full_document,10
+43,JPM,2023-02-21,board oversight,action,full_document,1
+43,JPM,2023-02-21,incident response,action,full_document,1
+44,JPM,2024-02-16,artificial intelligence,usage,full_document,3
+44,JPM,2024-02-16,machine learning,usage,full_document,2
+44,JPM,2024-02-16,nlp,usage,full_document,2
+44,JPM,2024-02-16,fairness,governance,full_document,1
+44,JPM,2024-02-16,transparency,governance,full_document,2
+44,JPM,2024-02-16,accountability,governance,full_document,3
+44,JPM,2024-02-16,privacy,governance,full_document,9
+44,JPM,2024-02-16,board oversight,action,full_document,1
+44,JPM,2024-02-16,incident response,action,full_document,3
+45,JPM,2025-02-14,artificial intelligence,usage,full_document,14
+45,JPM,2025-02-14,machine learning,usage,full_document,4
+45,JPM,2025-02-14,transparency,governance,full_document,2
+45,JPM,2025-02-14,accountability,governance,full_document,3
+45,JPM,2025-02-14,privacy,governance,full_document,10
+45,JPM,2025-02-14,board oversight,action,full_document,1
+45,JPM,2025-02-14,incident response,action,full_document,3
+46,JPM,2024-08-02,transparency,governance,full_document,1
+47,JPM,2024-10-30,transparency,governance,full_document,1
+48,JPM,2025-05-01,llm,usage,full_document,1
+48,JPM,2025-05-01,transparency,governance,full_document,1
+49,JPM,2025-08-05,llm,usage,full_document,3
+49,JPM,2025-08-05,nlp,usage,full_document,1
+49,JPM,2025-08-05,transparency,governance,full_document,1
+50,JPM,2025-11-04,llm,usage,full_document,1
+50,JPM,2025-11-04,nlp,usage,full_document,1
+50,JPM,2025-11-04,transparency,governance,full_document,3
+50,JPM,2025-11-04,accountability,governance,full_document,2
+51,META,2021-01-28,artificial intelligence,usage,full_document,4
+51,META,2021-01-28,machine learning,usage,full_document,8
+51,META,2021-01-28,bias,governance,full_document,2
+51,META,2021-01-28,transparency,governance,full_document,3
+51,META,2021-01-28,privacy,governance,full_document,79
+52,META,2022-02-03,artificial intelligence,usage,full_document,4
+52,META,2022-02-03,machine learning,usage,full_document,8
+52,META,2022-02-03,llm,usage,full_document,1
+52,META,2022-02-03,bias,governance,full_document,2
+52,META,2022-02-03,transparency,governance,full_document,4
+52,META,2022-02-03,privacy,governance,full_document,74
+53,META,2023-02-02,artificial intelligence,usage,full_document,11
+53,META,2023-02-02,machine learning,usage,full_document,13
+53,META,2023-02-02,generative ai,usage,full_document,2
+53,META,2023-02-02,bias,governance,full_document,2
+53,META,2023-02-02,transparency,governance,full_document,6
+53,META,2023-02-02,privacy,governance,full_document,87
+54,META,2024-02-02,artificial intelligence,usage,full_document,7
+54,META,2024-02-02,machine learning,usage,full_document,13
+54,META,2024-02-02,generative ai,usage,full_document,7
+54,META,2024-02-02,llm,usage,full_document,1
+54,META,2024-02-02,nlp,usage,full_document,1
+54,META,2024-02-02,bias,governance,full_document,3
+54,META,2024-02-02,transparency,governance,full_document,4
+54,META,2024-02-02,privacy,governance,full_document,107
+55,META,2025-01-30,artificial intelligence,usage,full_document,10
+55,META,2025-01-30,machine learning,usage,full_document,12
+55,META,2025-01-30,generative ai,usage,full_document,9
+55,META,2025-01-30,bias,governance,full_document,3
+55,META,2025-01-30,transparency,governance,full_document,4
+55,META,2025-01-30,privacy,governance,full_document,119
+56,META,2024-08-01,artificial intelligence,usage,full_document,7
+56,META,2024-08-01,machine learning,usage,full_document,10
+56,META,2024-08-01,generative ai,usage,full_document,5
+56,META,2024-08-01,bias,governance,full_document,2
+56,META,2024-08-01,transparency,governance,full_document,2
+56,META,2024-08-01,privacy,governance,full_document,93
+57,META,2024-10-31,artificial intelligence,usage,full_document,9
+57,META,2024-10-31,machine learning,usage,full_document,10
+57,META,2024-10-31,generative ai,usage,full_document,5
+57,META,2024-10-31,llm,usage,full_document,1
+57,META,2024-10-31,bias,governance,full_document,2
+57,META,2024-10-31,transparency,governance,full_document,2
+57,META,2024-10-31,privacy,governance,full_document,89
+58,META,2025-05-01,artificial intelligence,usage,full_document,10
+58,META,2025-05-01,machine learning,usage,full_document,10
+58,META,2025-05-01,generative ai,usage,full_document,9
+58,META,2025-05-01,llm,usage,full_document,1
+58,META,2025-05-01,nlp,usage,full_document,1
+58,META,2025-05-01,bias,governance,full_document,2
+58,META,2025-05-01,transparency,governance,full_document,2
+58,META,2025-05-01,privacy,governance,full_document,95
+59,META,2025-07-31,artificial intelligence,usage,full_document,9
+59,META,2025-07-31,machine learning,usage,full_document,10
+59,META,2025-07-31,generative ai,usage,full_document,8
+59,META,2025-07-31,llm,usage,full_document,1
+59,META,2025-07-31,nlp,usage,full_document,1
+59,META,2025-07-31,bias,governance,full_document,2
+59,META,2025-07-31,transparency,governance,full_document,2
+59,META,2025-07-31,privacy,governance,full_document,85
+60,META,2025-10-30,artificial intelligence,usage,full_document,10
+60,META,2025-10-30,machine learning,usage,full_document,10
+60,META,2025-10-30,generative ai,usage,full_document,9
+60,META,2025-10-30,nlp,usage,full_document,1
+60,META,2025-10-30,bias,governance,full_document,2
+60,META,2025-10-30,transparency,governance,full_document,2
+60,META,2025-10-30,privacy,governance,full_document,95
+61,MSFT,2023-07-27,artificial intelligence,usage,full_document,5
+61,MSFT,2023-07-27,machine learning,usage,full_document,2
+61,MSFT,2023-07-27,generative ai,usage,full_document,9
+61,MSFT,2023-07-27,llm,usage,full_document,1
+61,MSFT,2023-07-27,nlp,usage,full_document,1
+61,MSFT,2023-07-27,responsible ai,governance,full_document,1
+61,MSFT,2023-07-27,fairness,governance,full_document,2
+61,MSFT,2023-07-27,transparency,governance,full_document,3
+61,MSFT,2023-07-27,accountability,governance,full_document,4
+61,MSFT,2023-07-27,privacy,governance,full_document,13
+62,MSFT,2024-07-30,artificial intelligence,usage,full_document,5
+62,MSFT,2024-07-30,machine learning,usage,full_document,4
+62,MSFT,2024-07-30,generative ai,usage,full_document,9
+62,MSFT,2024-07-30,nlp,usage,full_document,1
+62,MSFT,2024-07-30,responsible ai,governance,full_document,4
+62,MSFT,2024-07-30,transparency,governance,full_document,2
+62,MSFT,2024-07-30,accountability,governance,full_document,1
+62,MSFT,2024-07-30,privacy,governance,full_document,14
+62,MSFT,2024-07-30,incident response,action,full_document,2
+63,MSFT,2025-07-30,artificial intelligence,usage,full_document,3
+63,MSFT,2025-07-30,machine learning,usage,full_document,4
+63,MSFT,2025-07-30,generative ai,usage,full_document,4
+63,MSFT,2025-07-30,nlp,usage,full_document,2
+63,MSFT,2025-07-30,responsible ai,governance,full_document,4
+63,MSFT,2025-07-30,transparency,governance,full_document,4
+63,MSFT,2025-07-30,accountability,governance,full_document,1
+63,MSFT,2025-07-30,privacy,governance,full_document,12
+63,MSFT,2025-07-30,incident response,action,full_document,6
+64,MSFT,2021-07-29,artificial intelligence,usage,full_document,4
+64,MSFT,2021-07-29,machine learning,usage,full_document,5
+64,MSFT,2021-07-29,bias,governance,full_document,1
+64,MSFT,2021-07-29,transparency,governance,full_document,3
+64,MSFT,2021-07-29,accountability,governance,full_document,4
+64,MSFT,2021-07-29,privacy,governance,full_document,8
+65,MSFT,2022-07-28,artificial intelligence,usage,full_document,5
+65,MSFT,2022-07-28,machine learning,usage,full_document,4
+65,MSFT,2022-07-28,bias,governance,full_document,1
+65,MSFT,2022-07-28,transparency,governance,full_document,2
+65,MSFT,2022-07-28,accountability,governance,full_document,3
+65,MSFT,2022-07-28,privacy,governance,full_document,13
+66,MSFT,2024-04-25,artificial intelligence,usage,full_document,2
+66,MSFT,2024-04-25,machine learning,usage,full_document,1
+66,MSFT,2024-04-25,generative ai,usage,full_document,5
+66,MSFT,2024-04-25,responsible ai,governance,full_document,1
+66,MSFT,2024-04-25,transparency,governance,full_document,2
+66,MSFT,2024-04-25,accountability,governance,full_document,1
+66,MSFT,2024-04-25,privacy,governance,full_document,9
+67,MSFT,2024-10-30,artificial intelligence,usage,full_document,2
+67,MSFT,2024-10-30,machine learning,usage,full_document,1
+67,MSFT,2024-10-30,generative ai,usage,full_document,5
+67,MSFT,2024-10-30,nlp,usage,full_document,1
+67,MSFT,2024-10-30,responsible ai,governance,full_document,2
+67,MSFT,2024-10-30,transparency,governance,full_document,3
+67,MSFT,2024-10-30,privacy,governance,full_document,9
+68,MSFT,2025-01-29,artificial intelligence,usage,full_document,2
+68,MSFT,2025-01-29,machine learning,usage,full_document,1
+68,MSFT,2025-01-29,generative ai,usage,full_document,5
+68,MSFT,2025-01-29,responsible ai,governance,full_document,2
+68,MSFT,2025-01-29,transparency,governance,full_document,3
+68,MSFT,2025-01-29,privacy,governance,full_document,9
+69,MSFT,2025-04-30,artificial intelligence,usage,full_document,2
+69,MSFT,2025-04-30,machine learning,usage,full_document,1
+69,MSFT,2025-04-30,generative ai,usage,full_document,5
+69,MSFT,2025-04-30,responsible ai,governance,full_document,2
+69,MSFT,2025-04-30,transparency,governance,full_document,3
+69,MSFT,2025-04-30,privacy,governance,full_document,10
+70,MSFT,2025-10-29,artificial intelligence,usage,full_document,4
+70,MSFT,2025-10-29,machine learning,usage,full_document,1
+70,MSFT,2025-10-29,generative ai,usage,full_document,3
+70,MSFT,2025-10-29,responsible ai,governance,full_document,3
+70,MSFT,2025-10-29,transparency,governance,full_document,4
+70,MSFT,2025-10-29,human oversight,governance,full_document,1
+70,MSFT,2025-10-29,privacy,governance,full_document,8
+71,NVDA,2021-02-26,artificial intelligence,usage,full_document,2
+71,NVDA,2021-02-26,machine learning,usage,full_document,5
+71,NVDA,2021-02-26,deep learning,usage,full_document,13
+71,NVDA,2021-02-26,recommendation systems,usage,full_document,1
+71,NVDA,2021-02-26,privacy,governance,full_document,12
+72,NVDA,2022-03-18,artificial intelligence,usage,full_document,1
+72,NVDA,2022-03-18,machine learning,usage,full_document,5
+72,NVDA,2022-03-18,deep learning,usage,full_document,13
+72,NVDA,2022-03-18,ai ethics,governance,full_document,1
+72,NVDA,2022-03-18,privacy,governance,full_document,46
+73,NVDA,2023-02-24,artificial intelligence,usage,full_document,2
+73,NVDA,2023-02-24,machine learning,usage,full_document,6
+73,NVDA,2023-02-24,deep learning,usage,full_document,12
+73,NVDA,2023-02-24,generative ai,usage,full_document,1
+73,NVDA,2023-02-24,llm,usage,full_document,2
+73,NVDA,2023-02-24,recommendation systems,usage,full_document,1
+73,NVDA,2023-02-24,ai ethics,governance,full_document,1
+73,NVDA,2023-02-24,transparency,governance,full_document,1
+73,NVDA,2023-02-24,privacy,governance,full_document,48
+74,NVDA,2024-02-21,artificial intelligence,usage,full_document,4
+74,NVDA,2024-02-21,machine learning,usage,full_document,1
+74,NVDA,2024-02-21,deep learning,usage,full_document,4
+74,NVDA,2024-02-21,generative ai,usage,full_document,16
+74,NVDA,2024-02-21,llm,usage,full_document,2
+74,NVDA,2024-02-21,nlp,usage,full_document,1
+74,NVDA,2024-02-21,recommendation systems,usage,full_document,1
+74,NVDA,2024-02-21,foundation model,usage,full_document,1
+74,NVDA,2024-02-21,bias,governance,full_document,1
+74,NVDA,2024-02-21,transparency,governance,full_document,2
+74,NVDA,2024-02-21,privacy,governance,full_document,28
+74,NVDA,2024-02-21,incident response,action,full_document,2
+75,NVDA,2025-02-26,artificial intelligence,usage,full_document,2
+75,NVDA,2025-02-26,machine learning,usage,full_document,1
+75,NVDA,2025-02-26,deep learning,usage,full_document,4
+75,NVDA,2025-02-26,generative ai,usage,full_document,15
+75,NVDA,2025-02-26,llm,usage,full_document,1
+75,NVDA,2025-02-26,recommendation systems,usage,full_document,1
+75,NVDA,2025-02-26,foundation model,usage,full_document,1
+75,NVDA,2025-02-26,bias,governance,full_document,1
+75,NVDA,2025-02-26,transparency,governance,full_document,2
+75,NVDA,2025-02-26,privacy,governance,full_document,30
+75,NVDA,2025-02-26,incident response,action,full_document,3
+76,NVDA,2024-05-29,artificial intelligence,usage,full_document,2
+76,NVDA,2024-05-29,generative ai,usage,full_document,10
+76,NVDA,2024-05-29,privacy,governance,full_document,63
+77,NVDA,2024-08-28,artificial intelligence,usage,full_document,2
+77,NVDA,2024-08-28,generative ai,usage,full_document,11
+77,NVDA,2024-08-28,nlp,usage,full_document,2
+77,NVDA,2024-08-28,computer vision,usage,full_document,1
+77,NVDA,2024-08-28,privacy,governance,full_document,1
+78,NVDA,2024-11-20,artificial intelligence,usage,full_document,2
+78,NVDA,2024-11-20,generative ai,usage,full_document,6
+78,NVDA,2024-11-20,privacy,governance,full_document,1
+79,NVDA,2025-05-28,artificial intelligence,usage,full_document,2
+79,NVDA,2025-05-28,generative ai,usage,full_document,2
+79,NVDA,2025-05-28,privacy,governance,full_document,1
+80,NVDA,2025-08-27,artificial intelligence,usage,full_document,2
+80,NVDA,2025-08-27,generative ai,usage,full_document,1
+80,NVDA,2025-08-27,privacy,governance,full_document,1
+81,ORCL,2023-06-20,artificial intelligence,usage,full_document,1
+81,ORCL,2023-06-20,machine learning,usage,full_document,8
+81,ORCL,2023-06-20,accountability,governance,full_document,1
+81,ORCL,2023-06-20,privacy,governance,full_document,13
+82,ORCL,2024-06-20,artificial intelligence,usage,full_document,1
+82,ORCL,2024-06-20,machine learning,usage,full_document,9
+82,ORCL,2024-06-20,generative ai,usage,full_document,6
+82,ORCL,2024-06-20,fairness,governance,full_document,1
+82,ORCL,2024-06-20,bias,governance,full_document,1
+82,ORCL,2024-06-20,transparency,governance,full_document,1
+82,ORCL,2024-06-20,privacy,governance,full_document,23
+82,ORCL,2024-06-20,incident response,action,full_document,3
+83,ORCL,2025-06-18,artificial intelligence,usage,full_document,1
+83,ORCL,2025-06-18,machine learning,usage,full_document,7
+83,ORCL,2025-06-18,generative ai,usage,full_document,7
+83,ORCL,2025-06-18,bias,governance,full_document,1
+83,ORCL,2025-06-18,transparency,governance,full_document,1
+83,ORCL,2025-06-18,privacy,governance,full_document,30
+83,ORCL,2025-06-18,incident response,action,full_document,3
+84,ORCL,2021-06-21,artificial intelligence,usage,full_document,3
+84,ORCL,2021-06-21,machine learning,usage,full_document,7
+84,ORCL,2021-06-21,privacy,governance,full_document,12
+85,ORCL,2022-06-21,artificial intelligence,usage,full_document,2
+85,ORCL,2022-06-21,machine learning,usage,full_document,8
+85,ORCL,2022-06-21,privacy,governance,full_document,13
+86,ORCL,2024-03-12,nlp,usage,full_document,1
+87,ORCL,2024-09-10,fairness,governance,full_document,2
+87,ORCL,2024-09-10,privacy,governance,full_document,10
+88,ORCL,2024-12-10,fairness,governance,full_document,2
+88,ORCL,2024-12-10,privacy,governance,full_document,10
+89,ORCL,2025-03-11,privacy,governance,full_document,10
+90,ORCL,2025-09-10,nlp,usage,full_document,1
+90,ORCL,2025-09-10,privacy,governance,full_document,14
+91,TSLA,2022-02-07,artificial intelligence,usage,full_document,3
+91,TSLA,2022-02-07,nlp,usage,full_document,1
+91,TSLA,2022-02-07,privacy,governance,full_document,7
+92,TSLA,2023-01-31,artificial intelligence,usage,full_document,5
+92,TSLA,2023-01-31,fairness,governance,full_document,1
+92,TSLA,2023-01-31,privacy,governance,full_document,9
+93,TSLA,2021-02-08,privacy,governance,full_document,6
+94,TSLA,2024-01-29,artificial intelligence,usage,full_document,7
+94,TSLA,2024-01-29,fairness,governance,full_document,1
+94,TSLA,2024-01-29,privacy,governance,full_document,17
+94,TSLA,2024-01-29,incident response,action,full_document,2
+95,TSLA,2025-01-30,artificial intelligence,usage,full_document,9
+95,TSLA,2025-01-30,fairness,governance,full_document,1
+95,TSLA,2025-01-30,accountability,governance,full_document,1
+95,TSLA,2025-01-30,privacy,governance,full_document,16
+95,TSLA,2025-01-30,incident response,action,full_document,2
+96,TSLA,2024-07-24,artificial intelligence,usage,full_document,3
+96,TSLA,2024-07-24,llm,usage,full_document,1
+96,TSLA,2024-07-24,privacy,governance,full_document,2
+97,TSLA,2024-10-24,artificial intelligence,usage,full_document,3
+97,TSLA,2024-10-24,privacy,governance,full_document,2
+98,TSLA,2025-04-23,artificial intelligence,usage,full_document,3
+98,TSLA,2025-04-23,privacy,governance,full_document,2
+99,TSLA,2025-07-24,artificial intelligence,usage,full_document,3
+99,TSLA,2025-07-24,privacy,governance,full_document,1
+100,TSLA,2025-10-23,artificial intelligence,usage,full_document,3
+100,TSLA,2025-10-23,nlp,usage,full_document,1
+100,TSLA,2025-10-23,privacy,governance,full_document,2
